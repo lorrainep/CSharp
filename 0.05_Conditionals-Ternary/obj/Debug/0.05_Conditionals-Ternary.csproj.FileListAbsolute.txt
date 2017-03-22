@@ -1,0 +1,6 @@
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Conditionals-Ternary\bin\Debug\0.05_Conditionals-Ternary.exe.config
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Conditionals-Ternary\bin\Debug\0.05_Conditionals-Ternary.exe
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Conditionals-Ternary\bin\Debug\0.05_Conditionals-Ternary.pdb
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Conditionals-Ternary\obj\Debug\0.05_Conditionals-Ternary.csprojResolveAssemblyReference.cache
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Conditionals-Ternary\obj\Debug\0.05_Conditionals-Ternary.exe
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Conditionals-Ternary\obj\Debug\0.05_Conditionals-Ternary.pdb

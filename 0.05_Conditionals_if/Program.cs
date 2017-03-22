@@ -8,7 +8,7 @@ namespace _0._05_Conditionals_if
 {
     class Program
     {
-        static void Main(string[] args)
+        static void main(string[] args)
         {/*
             bool isOn = true;
             bool isHot = false;

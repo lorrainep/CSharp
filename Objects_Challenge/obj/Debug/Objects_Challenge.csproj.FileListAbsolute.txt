@@ -1,0 +1,5 @@
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\Objects_Challenge\bin\Debug\Objects_Challenge.exe.config
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\Objects_Challenge\bin\Debug\Objects_Challenge.exe
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\Objects_Challenge\bin\Debug\Objects_Challenge.pdb
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\Objects_Challenge\obj\Debug\Objects_Challenge.exe
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\Objects_Challenge\obj\Debug\Objects_Challenge.pdb
