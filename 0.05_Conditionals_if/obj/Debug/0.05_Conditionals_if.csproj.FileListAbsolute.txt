@@ -1,0 +1,6 @@
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Conditionals_if\bin\Debug\0.05_Conditionals_if.exe.config
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Conditionals_if\bin\Debug\0.05_Conditionals_if.exe
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Conditionals_if\bin\Debug\0.05_Conditionals_if.pdb
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Conditionals_if\obj\Debug\0.05_Conditionals_if.csprojResolveAssemblyReference.cache
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Conditionals_if\obj\Debug\0.05_Conditionals_if.exe
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Conditionals_if\obj\Debug\0.05_Conditionals_if.pdb

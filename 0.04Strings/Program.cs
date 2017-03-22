@@ -22,7 +22,7 @@ namespace _0._04Strings
             string fullName = firstName + " " + middleName + " " + lastName;
             Console.WriteLine(fullName);
 
-            Console.WriteLine("Name: {1}" + "\n" + "Occupation: {0}", fullName, occupation);
+            Console.WriteLine("Name: {0}" + "\n" + "Occupation: {1}", fullName, occupation);
 
             Console.ReadLine();
         }
