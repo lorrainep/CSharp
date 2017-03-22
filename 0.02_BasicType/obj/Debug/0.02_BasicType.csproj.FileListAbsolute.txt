@@ -3,3 +3,4 @@ c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary
 c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicType\bin\Debug\0.02_BasicType.pdb
 c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicType\obj\Debug\0.02_BasicType.exe
 c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicType\obj\Debug\0.02_BasicType.pdb
+c:\users\lorraine papczynski\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicType\obj\Debug\0.02_BasicType.csprojResolveAssemblyReference.cache

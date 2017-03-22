@@ -13,8 +13,12 @@ namespace _0._02_BasicType
             Console.WriteLine("Data Types");
 
             string name = "Lorraine";
+            string teacher;
+
+            teacher = "Paul";
 
             Console.WriteLine(name);
+            Console.WriteLine(teacher + " is a suave guy " + name + " is learning from him.");
             Console.ReadLine();
         }
     }
